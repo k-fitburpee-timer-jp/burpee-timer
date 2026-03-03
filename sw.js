@@ -1,4 +1,4 @@
-const CACHE_NAME = 'burpee-timer-pro-v2';
+const CACHE_NAME = 'burpee-timer-pro-v3';
 const CORE_ASSETS = [
   './',
   './index.html',

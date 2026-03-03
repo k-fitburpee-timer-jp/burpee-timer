@@ -859,9 +859,9 @@
 
         els.startBtn.textContent =
           state.status === 'running' ? '進行中' :
-          state.status === 'paused' ? '再開' :
           state.status === 'done' ? 'もう一回' : '開始';
         els.startBtn.disabled = state.status === 'running';
+        els.pauseBtn.disabled = state.status !== 'running';
 
         updateRing();
         syncFormLock();
