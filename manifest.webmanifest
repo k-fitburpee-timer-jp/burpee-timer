@@ -1,13 +1,13 @@
 {
-  "name": "Burpee Timer",
-  "short_name": "Burpee Timer",
-  "description": "バーピートレーニング用のシンプルなPWAタイマー",
+  "name": "Burpee Timer Pro",
+  "short_name": "BurpeePro",
+  "description": "バーピートレーニング用の高機能PWAタイマー",
   "lang": "ja",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#020617",
-  "theme_color": "#0f172a",
+  "background_color": "#050816",
+  "theme_color": "#0b1220",
   "icons": [
     {
       "src": "./icon-192.png",
